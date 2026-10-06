@@ -16,7 +16,7 @@
 
 **Rahul's Viral Avatar Cloning** is an AI-powered content automation pipeline built with **n8n** to streamline the process of discovering content, generating engaging scripts, creating AI avatar videos, and distributing content across social media platforms.
 
-I developed this automation for a client with **500K+ followers on Instagram**, helping streamline their short-form content production workflow through AI agents, API integrations, and automated publishing workflows.
+I developed this automation for a **client🔥** with **500K+ followers on Instagram**, helping streamline their short-form content production workflow through AI agents, API integrations, and automated publishing workflows.
 
 The system combines content ingestion, AI-assisted script rewriting, human approval, avatar video generation, and social media distribution into a connected workflow.
 
